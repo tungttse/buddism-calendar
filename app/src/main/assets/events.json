@@ -1,0 +1,230 @@
+[
+  {
+    "month": "01",
+    "events" : [
+      {
+        "day": "01",
+        "name": "Ngày vía Đức Di Lặc",
+        "description": "Ngày vía Đức Di Lặc"
+      },
+
+      {
+        "day": "15",
+        "name": "Ngày Lễ Thượng Nguyên",
+        "description": "Ngày Lễ Thượng Nguyên"
+      }
+    ]
+  },
+
+  {
+    "month": "02",
+    "events" : [
+      {
+        "day": "08",
+        "name": "Ngày Phật Thích Ca xuất gia",
+        "description": "Ngày Phật Thích Ca xuất gia"
+      },
+
+      {
+        "day": "15",
+        "name": "Ngày Phật Thích Ca nhập Niết Bàn",
+        "description": "Ngày Phật Thích Ca nhập Niết Bàn"
+      },
+
+      {
+        "day": "19",
+        "name": "Ngày vía Quan Thế Âm giáng sanh",
+        "description": "Ngày vía Quan Thế Âm giáng sanh"
+      },
+
+      {
+        "day": "21",
+        "name": "Ngày Vía Phổ Hiền giáng sanh",
+        "description": "Ngày Vía Phổ Hiền giáng sanh"
+      }
+    ]
+  },
+
+  {
+    "month": "03",
+    "events" : [
+      {
+        "day": "06",
+        "name": "Ngày vía Ca Diếp Tôn Giả",
+        "description": "Ngày vía Ca Diếp Tôn Giả"
+      },
+
+      {
+        "day": "16",
+        "name": "Ngày Phật Mẫu Chuẩn Đề",
+        "description": "Ngày Phật Mẫu Chuẩn Đề"
+      }
+    ]
+  },
+
+  {
+    "month": "04",
+    "events" : [
+      {
+        "day": "04",
+        "name": "Ngày Vía Văn Thù Bồ Tát",
+        "description": "Ngày Vía Văn Thù Bồ Tát"
+      },
+
+      {
+        "day": "08",
+        "name": "Ngày vía Phật Thích Ca Đản Sanh ( thống nhất lại ngày 15)",
+        "description": "Ngày vía Phật Thích Ca Đản Sanh ( thống nhất lại ngày 15)"
+      },
+
+      {
+        "day": "20",
+        "name": "Ngày vía Bồ Tát Quảng Đức vị pháp thiêu thân",
+        "description": "Ngày vía Bồ Tát Quảng Đức vị pháp thiêu thân"
+      },
+
+      {
+        "day": "23",
+        "name": "Ngày vía Phổ Hiền Thành Đạo",
+        "description": "Ngày vía Phổ Hiền Thành Đạo"
+      },
+
+      {
+        "day": "28",
+        "name": "Ngày vía Dược Sư Đản Sanh",
+        "description": "Ngày vía Dược Sư Đản Sanh"
+      }
+
+    ]
+  },
+
+  {
+    "month": "05",
+    "events" : [
+      {
+        "day": "13",
+        "name": "Ngày vía Già Lam Thánh Chúng",
+        "description": "Ngày vía Già Lam Thánh Chúng"
+      }
+    ]
+  },
+
+  {
+    "month": "06",
+    "events" : [
+      {
+        "day": "03",
+        "name": "Ngày vía Hộ Pháp",
+        "description": "Ngày vía Hộ Pháp"
+      },
+
+      {
+        "day": "19",
+        "name": "Ngày vía Quan Thế Âm Thành Đạo",
+        "description": "Ngày vía Quan Thế Âm Thành Đạo"
+      }
+    ]
+  },
+
+  {
+    "month": "07",
+    "events" : [
+      {
+        "day": "13",
+        "name": "Ngày vía Đại Thế Chí",
+        "description": "Ngày vía Đại Thế Chí"
+      },
+
+      {
+        "day": "15",
+        "name": "Ngày Vu Lan Bồn ( Đại Hiếu Mục Kiền Liên Bồ Tát)",
+        "description": "Ngày Vu Lan Bồn ( Đại Hiếu Mục Kiền Liên Bồ Tát)"
+      },
+
+      {
+        "day": "30",
+        "name": "Ngày vía Địa Tạng Bồ Tát",
+        "description": "Ngày vía Địa Tạng Bồ Tát"
+      }
+    ]
+  },
+
+  {
+    "month": "08",
+    "events" : [
+      {
+        "day": "06",
+        "name": "Ngày Huệ Viễn Tuệ Sư Sơ Tổ Tịnh Độ Tông",
+        "description": "Ngày Huệ Viễn Tuệ Sư Sơ Tổ Tịnh Độ Tông"
+      },
+
+      {
+        "day": "08",
+        "name": "Ngày Vía Tôn Giả A Nan Đà",
+        "description": "Ngày Vía Tôn Giả A Nan Đà"
+      }
+    ]
+  },
+
+  {
+    "month": "09",
+    "events" : [
+      {
+        "day": "19",
+        "name": "Ngày vía Quan Thế Âm xuất gia",
+        "description": "Ngày vía Quan Thế Âm xuất gia"
+      },
+
+      {
+        "day": "29",
+        "name": "Ngày vía Dược Sư thành đạo",
+        "description": "Ngày vía Dược Sư thành đạo"
+      }
+    ]
+  },
+
+  {
+    "month": "10",
+    "events" : [
+      {
+        "day": "05",
+        "name": "Ngày vía Đạt Ma Tổ Sư",
+        "description": "Ngày vía Đạt Ma Tổ Sư"
+      },
+
+      {
+        "day": "08",
+        "name": "Ngày Phóng sanh",
+        "description": "Ngày Phóng sanh"
+      },
+
+      {
+        "day": "15",
+        "name": "Ngày lễ Hạ Nguyên",
+        "description": "Ngày lễ Hạ Nguyên"
+      }
+    ]
+  },
+
+  {
+    "month": "11",
+    "events" : [
+      {
+        "day": "17",
+        "name": "Ngày vía Phật A Di Đà",
+        "description": "Ngày vía Phật A Di Đà"
+      }
+    ]
+  },
+
+  {
+    "month": "12",
+    "events" : [
+      {
+        "day": "08",
+        "name": "Ngày vía Phật Thích Ca Thành Đạo",
+        "description": "Ngày vía Phật Thích Ca Thành Đạo"
+      }
+    ]
+  }
+]

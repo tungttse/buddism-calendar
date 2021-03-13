@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Phat Lich Van Nien</string>
+    <string name="title_home">Lịch</string>
+    <string name="title_day">Ngày</string>
+    <string name="title_month">Tháng</string>
+    <string name="title_event">Sự Kiện</string>
+    <string name="title_setting">Điều Chỉnh</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
